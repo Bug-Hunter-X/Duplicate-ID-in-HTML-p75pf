@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: using duplicate IDs.  IDs must be unique within a document.  The `bug.html` file shows the error; `solution.html` provides the correction.  This is a simple example to highlight a crucial aspect of HTML validation and best practices.
